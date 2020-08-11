@@ -6,6 +6,8 @@
 
 - 👯 I’m looking to collaborate 
 
+- 👨‍💻 I'm interested in Augmented reality,  Virtual Reality 
+
 - ⏰ Eat Work Sleep Repeat 
 
 <!--
