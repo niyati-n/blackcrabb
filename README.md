@@ -6,9 +6,8 @@
 
 - 👯 I’m looking to collaborate 
 
-- 👨‍💻 I'm interested in Augmented reality,  Virtual Reality 
+- 👩‍💻 I'm interested in Augmented reality,  Virtual Reality 
 
-- ⏰ Eat Work Sleep Repeat 
 
 <!--
 **blackcrabb/blackcrabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
