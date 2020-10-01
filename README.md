@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-#### Niyati - blackcrabb
 
 - 🌱 I’m currently learning MERN stack , Flutter
 
@@ -14,7 +13,7 @@
 
 <!--
 **blackcrabb/blackcrabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+#### Niyati - blackcrabb
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
