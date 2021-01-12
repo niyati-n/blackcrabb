@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning MERN stack , Flutter
-
 - 👯 I’m looking to collaborate 
 
 - 👩‍💻 I'm interested in Augmented reality,  Virtual Reality 
