@@ -72,7 +72,7 @@
 
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackcrabb&theme=nightowl&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackcrabb&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niyati-n&theme=nightowl&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyati-n&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
